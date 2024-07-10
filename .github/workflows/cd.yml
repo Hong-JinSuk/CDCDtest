@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  S3_BUCKET_NAME: dofarming-fe-bucket
+  S3_BUCKET_NAME: dofarming-be-bucket
   CODE_DEPLOY_APPLICATION_NAME: dofarming-codeDeploy-BE-ubuntu
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: dofarming-codeDeploy-BE-ubuntu-group
 
